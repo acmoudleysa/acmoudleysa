@@ -8,13 +8,6 @@ I'm passionate about the synergy of technology and science. My expertise centers
 ![](https://github-readme-stats.vercel.app/api?username=acmoudleysa&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acmoudleysa&theme=dark&hide_border=true)<br/>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=acmoudleysa&icon=0&color=0)](https://visitcount.itsvg.in)
 
